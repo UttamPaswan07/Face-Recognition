@@ -1,4 +1,4 @@
-# Face-Recognition-for-attendance-tracking
+# Face-Recognition
 This Python-based Face Recognition and Detection System uses OpenCV and machine learning.<br> It includes data collection, preprocessing, model training, and real-time face recognition.<br> Key components: collect_data.py, consolidated_data.py, recognize.py, haarcascade_frontalface_default.xml, and final_model.h5. Ideal for security and smart applications.
 
 Face Recognition for Detection System
